@@ -25,11 +25,11 @@ Alphapolis -help
 
 ## ファイル
 
-### 1. `main.rb`
+### 1. `src/main.rb`
 
 これは、ユーザー入力を処理し、ダウンロードプロセスを開始するメインスクリプトです。
 
-### 2. `system/alphapolis.rb`
+### 2. `src/alphapolis.rb`
 
 このファイルには、実際の小説コンテンツのダウンロードと処理を行う`Alphapolis`モジュールと`App`クラスが含まれています。
 

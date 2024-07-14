@@ -12,19 +12,6 @@ Site: https://zisty.net<br>
 Discord: https://discord.gg/jjqCGjm2Tw
 
 # Japanese
-# Alphapolis Downloader ドキュメント
-
-## 作成者
-### 私の情報
-YouTube: [tanahiro2010](https://youtube.com/@tanahiro2010)<br>
-Twitter: [tanahiro2010](https://twitter.com/tanahiro2010)<br>
-Discord: [6GF2RSK6j7](https://discord.gg/6GF2RSK6j7)<br>
-サイト: [tanahiro2010.cloudfree.jp](https://tanahiro2010.cloudfree.jp) および [tanahiro2010.zatunen.com](https://tanahiro2010.zatunen.com)
-
-### Zistyの情報
-Twitter: [TeamZisty](https://twitter.com/TeamZisty)<br>
-サイト: [zisty.net](https://zisty.net)<br>
-Discord: [jjqCGjm2Tw](https://discord.gg/jjqCGjm2Tw)
 
 ## アプリケーション
 使用方法の詳細については、以下のコマンドを使用してください。
@@ -34,7 +21,7 @@ Alphapolis -help
 
 ## 概要
 
-`Alphapolis Downloader`は、Alphapolisウェブサイトから小説をダウンロードするためのRubyスクリプトです。ユーザーは作家IDと本IDを指定して、指定された本の内容を取得して保存することができます。
+`Alphapolis Downloader`は、Alphapolisウェブサイトから小説をダウンロードするためのRubyスクリプトです。ユーザーは作家IDと小説IDを指定して、指定された本の内容を取得して保存することができます。
 
 ## ファイル
 

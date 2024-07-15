@@ -94,7 +94,7 @@ module Alphapolis
 
           request = Net::HTTP::Get.new(uri)
           request['User-Agent'] = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0'
-          request['Referer'] = 'https://www.alphapolis.co.jp/novel/938849350/837893601'
+          request['Referer'] = book_url
           request['Cookie'] = '_gcl_au=1'
 
           response = http.request(request)

@@ -11,7 +11,12 @@
     </content>
     <orderEntry type="jdk" jdkName="ruby-3.3.3-p89 (2)" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.5.14, ruby-3.3.3-p89 (2)) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="neri (v1.1.0, ruby-3.3.3-p89 (2)) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-protocol (v0.2.2, ruby-3.3.3-p89 (2)) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.16.6, ruby-3.3.3-p89 (2)) [gem]" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="racc (v1.7.3, ruby-3.3.3-p89 (2)) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="resolv (v0.4.0, ruby-3.3.3-p89 (2)) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="timeout (v0.4.1, ruby-3.3.3-p89 (2)) [gem]" level="application" />
   </component>
 </module>
